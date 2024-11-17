@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(20241023_068.JPG) center/cover no-repeat;
+background:url(20241116_000.jpeg) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -127,15 +127,41 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">まっちゃんからの開催案内！</span></h2>
+<h2><span class="yellow">アキラックスさんのロック調、妖精郷テーマ曲！<br>曲の頭が欠けていますが、あしからず</span></h2>
 
-<a href="20241023_000.png" target="_blank"><img src="20241023_000.png" alt="サンプル画像" width="900" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cMHPgG8gviE?si=eZM2cbTBrlgkW3RA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<h2><span class="yellow">有楽町駅から集合地点に向かいます！</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B63k1v3wpcg?si=sorTjXVW0R1VVO13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_W4d9BJlC7I?si=JmJVNWbqonKW0lKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<h2><span class="yellow">アキラックスさんのアナウンスの後に音を出そうとしてファインダー表示したところが収録されちゃってます</span></h2>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HPQM5AGBbcc?si=bD9mdGrxgDM-x680" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<h2><span class="yellow">リヴィーさんの４曲！<br>この4曲だけは頭切れなしで収録できました</span></h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SwILyNLSx3s?si=_bKxXSKTpNIg3Tm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KB47zkfAgDU?si=T0T9lJb_TI3BH2-_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8FWCog4lbgc?si=MRS05uSVSmxQXyfq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_RFy5Pu-OnI?si=mp2pakCSwaeChkJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h2><span class="yellow">マイティヤさんの5曲＋みんなでダンス！</span></h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-P5-XSDXoBc?si=eDzYJvATdQXFs3VF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zQo4JdrlByc?si=rPMar4i-fw-jThwP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x3e6pS06HnM?si=CCDLj5p7ko40Pnp7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5WfBEIpsD10?si=YYFNECiz1GCs_4aL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bas7BPGJDRE?si=fH21WGo0gNrDOaZn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XBjjf7tc3xw?si=0c0LCkm7XzLOFjQB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br><br>
 <h2><span class="yellow">以下、パンフ内リンク！</span></h2>
@@ -150,7 +176,7 @@ p.note { display: none; }
 
 <h2><span class="yellow">集合写真！</span></h2>
 
-<a href="20241004_034.JPG" target="_blank"><img src="20241004_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_000.jpeg" target="_blank"><img src="20241116_000.jpeg" alt="サンプル画像" width="900" /></a>
 
 
 

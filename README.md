@@ -116,7 +116,7 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <img src="QR_2024Oct23.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_2024Nov16.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
@@ -164,13 +164,7 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XBjjf7tc3xw?si=0c0LCkm7XzLOFjQB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br><br>
-<h2><span class="yellow">以下、パンフ内リンク！</span></h2>
 
-<h1><span class="yellow">
-<a href="https://www.ukiyoe-ota-muse.jp/" target="_blank">太田記念美術館</a><br>
-<a href="https://www.funasei.com/" target="_blank">屋形船、船清</a><br>
-<a href="http://ginza-espero.com/" target="_blank">レストラン、銀座エスペロ</a>
-</span></h1>
 
 
 

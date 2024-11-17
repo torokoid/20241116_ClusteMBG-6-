@@ -171,7 +171,7 @@ p.note { display: none; }
 <h2><span class="yellow">集合写真！</span></h2>
 
 <a href="20241116_000.jpeg" target="_blank"><img src="20241116_000.jpeg" alt="サンプル画像" width="900" /></a>
-
+<a href="20241116_001.jpeg" target="_blank"><img src="20241116_001.jpeg" alt="サンプル画像" width="900" /></a>
 
 
 

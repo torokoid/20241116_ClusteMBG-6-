@@ -183,8 +183,8 @@ p.note { display: none; }
 
 
 
-
-
+<h2><span class="yellow">11月26日に正式版リリースされましたので、リンクさせて頂きました！</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-MJ7VjKAChU?si=v-ByO1Rgz1gIJqbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
